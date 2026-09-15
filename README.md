@@ -1,2 +1,3 @@
-# web-polygon-creator
-A React (TypeScript) mapping application built with Leaflet and the Geoman plugin for advanced drawing and editing of polygons.
+# Discription
+
+Welcome to my first React TypeScript pet project! This application marks my introduction to TypeScript and the Leaflet library. I built an interactive map using Leaflet and integrated the Geoman plugin to implement drawing and polygon editing tools.
